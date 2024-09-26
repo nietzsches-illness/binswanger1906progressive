@@ -3,11 +3,14 @@
 See `binswanger1906progressive.bib` file for full reference.
 
 * `binswanger1906progressive.md` has a hand-edited version of the OCR text
-  available at
-  copy](https://archive.org/stream/deutscheklinikameingangedeszwanzigstenjahrhunderts6.21906geisteskrankheiten/Deutsche%20Klinik%20am%20Eingange%20des%20zwanzigsten%20Jahrhunderts%206.2%20%281906%29%20Geisteskrankheiten_djvu.txt).
+  available at [the Achive.org
+  copy](https://archive.org/stream/deutscheklinikameingangedeszwanzigstenjahrhunderts6.21906geisteskrankheiten/Deutsche%20Klinik%20am%20Eingange%20des%20zwanzigsten%20Jahrhunderts%206.2%20%281906%29%20Geisteskrankheiten_djvu.txt)
+  in Pandoc Markdown text format.  Have a look — the correspondence of the text
+  and the original (below) should be fairly obvious.
 * `binswanger1906progressive_original.pdf` has the relevant pages from the
   [archive.org
   copy](https://archive.org/details/deutscheklinikameingangedeszwanzigstenjahrhunderts6.21906geisteskrankheiten/page/n79)
+* `binswanger1906progressive.pdf` is a PDF built from the Markdown above.  See "Building" below.
 
 I believe both PDF and text are in the public domain, because of their age.
 I could see no other license asserted on the Archive.org site.
