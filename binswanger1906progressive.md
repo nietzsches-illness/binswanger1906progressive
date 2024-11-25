@@ -74,7 +74,7 @@ klinische Krankheitstypen durch Verwerthung der vorherrschenden psychischen Kran
 Wege nicht blos gesetzmässige Phasen des Verlaufes, sondern sogar bestimmte Krankheitsformen auffinden zu können, müssen als gescheitert 
 betrachtet werden. Die alte typische Paralyse mit der gesetzmässigen Aufeinanderfolge a) des Stadium initiale mit unfertig entwickelten Krankheitserscheinungen, b) des Stadium melancholicum s. hypochondriacum, c) des 
 Stadium maniacale, d) des Stadium dementiae ist nur geeignet, den Anfänger irrezuführen und ihm das Wesentlichste der psychischen Krank
-heitsvorgänge, nämlich den Intelligenzverfall, gewissermaassen als das Endglied einer langep Kette von Krankheitsvorgängen erscheinen zu lassen. 
+heitsvorgänge, nämlich den Intelligenzverfall, gewissermaassen als das Endglied einer langen Kette von Krankheitsvorgängen erscheinen zu lassen. 
 Ebenso irrthümlich ist es, neben dieser typischen Krankheitsform eine Reihe 
 anderer scharf begrenzter psychischer Krankheitsbilder aufstellen zu wollen. 
 Wenn Sie die Literatur überschauen, so begegnen Sie den mannigfachsten 
